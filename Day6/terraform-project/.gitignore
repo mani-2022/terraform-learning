@@ -1,0 +1,5 @@
+.terraform
+Sample-keys.pem
+userdata.sh
+.terraform.lock.hcl
+*.tfvars
